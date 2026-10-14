@@ -1,0 +1,21 @@
+Student_ID,Name,Department,Maths,Science,English,Computer,Attendance,Total,Average,Grade,Result
+101,Aarav Sharma,CSE,88,92,79,95,94,354,88.5,A,Pass
+102,Priya Verma,CSE,76,81,85,90,89,332,83.0,A,Pass
+103,Rohan Gupta,ECE,45,52,60,48,72,205,51.25,D,Pass
+104,Sneha Reddy,IT,91,94,88,97,96,370,92.5,A+,Pass
+105,Karan Singh,ECE,34,40,55,42,65,171,42.75,D,Fail
+106,Anjali Mehta,IT,67,72,70,75,85,284,71.0,B,Pass
+107,Vikram Patel,CSE,58,63,66,70,80,257,64.25,C,Pass
+108,Neha Joshi,MECH,82,78,84,80,91,324,81.0,A,Pass
+109,Arjun Nair,MECH,39,45,50,41,70,175,43.75,D,Pass
+110,Pooja Iyer,IT,95,89,93,98,97,375,93.75,A+,Pass
+111,Rahul Yadav,ECE,72,68,74,66,83,280,70.0,B,Pass
+112,Divya Kapoor,CSE,85,90,87,92,93,354,88.5,A,Pass
+113,Amit Kumar,MECH,30,38,42,36,60,146,36.5,F,Fail
+114,Kavya Menon,IT,78,83,80,86,90,327,81.75,A,Pass
+115,Siddharth Rao,ECE,62,59,65,68,78,254,63.5,C,Pass
+116,Isha Malhotra,CSE,93,96,90,99,98,378,94.5,A+,Pass
+117,Manish Tiwari,MECH,55,48,52,60,74,215,53.75,D,Pass
+118,Ritu Chauhan,IT,70,74,72,79,87,295,73.75,B,Pass
+119,Deepak Mishra,ECE,41,36,48,44,68,169,42.25,D,Pass
+120,Ananya Das,CSE,80,85,82,88,92,335,83.75,A,Pass
