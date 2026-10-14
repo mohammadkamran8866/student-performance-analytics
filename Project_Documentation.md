@@ -65,10 +65,7 @@ A student passes only if marks are 35 or more in every subject. If any subject i
 - Low attendance list
 
 ## 7. Output / Screenshots
-Add your screenshots here, for example:
-
-![Output 1](screenshots/output1.png)
-![Output 2](screenshots/output2.png)
+The full program output is shown in the terminal when you run python main.py.
 
 ## 8. Final Outcome
 The program runs without errors and shows all the results clearly. Isha Malhotra is the top student with an average of 94.5. Computer is the best subject and Maths is the weakest. 18 out of 20 students passed (90%) and the class average is 70.0.
@@ -79,7 +76,7 @@ The program runs without errors and shows all the results clearly. Isha Malhotra
 - Learning: How to use Pandas DataFrames, NumPy functions, loops and functions together in one project.
 
 ## 10. GitHub Repository
-Link: PASTE YOUR GITHUB LINK HERE
+Link: https://github.com/mohammadkamran8866/student-performance-analytics
 
 ## How to Run
 1. Install the libraries: `pip install pandas numpy`
