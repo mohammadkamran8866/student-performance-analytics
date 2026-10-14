@@ -76,7 +76,7 @@ The program runs without errors and shows all the results clearly. Isha Malhotra
 - Learning: How to use Pandas DataFrames, NumPy functions, loops and functions together in one project.
 
 ## 10. GitHub Repository
-Link: PASTE YOUR GITHUB LINK HERE
+Link: https://github.com/mohammadkamran8866/student-performance-analytics
 
 ## How to Run
 1. Install the libraries: `pip install pandas numpy`
