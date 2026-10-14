@@ -3,7 +3,7 @@
 ## 1. Project Title
 Student Performance Analytics System
 
-Student Name: YOUR NAME HERE
+Student Name: MOHD KAMRAN
 Course: Python with AI - EWB Courses
 
 ## 2. Objective
@@ -64,10 +64,7 @@ A student passes only if marks are 35 or more in every subject. If any subject i
 - Low attendance list
 
 ## 7. Output / Screenshots
-Add your screenshots here, for example:
-
-![Output 1](screenshots/output1.png)
-![Output 2](screenshots/output2.png)
+The full program output is shown in the terminal when you run python main.py.
 
 ## 8. Final Outcome
 The program runs without errors and shows all the results clearly. Isha Malhotra is the top student with an average of 94.5. Computer is the best subject and Maths is the weakest. 18 out of 20 students passed (90%) and the class average is 70.0.
